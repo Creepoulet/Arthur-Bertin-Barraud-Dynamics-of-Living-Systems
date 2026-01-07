@@ -26,4 +26,4 @@ The Brusselator and Gray-scott parts can be run independently.
    * every :  Interval in time steps between frames kept for the GIF
    * duration : Display time in seconds of each frame in the GIF animation
   
-   &rarr; The GIF file will be written to the current working directory and can be opened with any image viewer that supports GIFs
+   &rarr; The GIF file will be written in the current working directory.
