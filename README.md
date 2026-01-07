@@ -1,4 +1,3 @@
-Brusselator and Gray–Scott Models
 This project contains a Jupyter notebook implementing and visualizing the Brusselator and Gray–Scott reaction–diffusion models, with options to generate animations as GIFs.
 ​
 
